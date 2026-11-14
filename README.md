@@ -19,6 +19,9 @@ Most security people learn on IT networks, then get handed a plant floor. The in
 | [3. Industrial protocols](notes/03-protocols.md) | Modbus, EtherNet/IP, S7, DNP3, OPC UA: ports and what security each has |
 | [4. Your first 90 days](notes/04-first-90-days.md) | A checklist: learn and look, make it recoverable, close the widest doors |
 | [5. Remote access](notes/05-remote-access.md) | Finding the paths in, a jump-host pattern, rules for vendors |
+| [6. Standards and frameworks](notes/06-standards.md) | Which of NIST 800-82, CISA CPGs, IEC 62443 and the rest to read first |
+| [7. Incidents worth studying](notes/07-incidents.md) | Stuxnet, Ukraine, TRITON, Oldsmar, Colonial Pipeline and the lesson from each |
+| [Resources](resources.md) | Free references, tools for visibility, lab software, books |
 
 ## Ground rules
 
