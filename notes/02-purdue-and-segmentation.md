@@ -22,7 +22,7 @@ The rule: **no direct traffic between IT and OT.** Every flow terminates in the 
 
 - IT users who need production data read a historian replica in the DMZ, not the historian in OT.
 - Patches and antivirus updates are staged on a DMZ server and pulled from OT.
-- Remote users land on a jump host in the DMZ, then open a second session into OT (see note 5, remote access).
+- Remote users land on a jump host in the DMZ, then open a second session into OT (see [5. Remote access](05-remote-access.md)).
 - Default deny in both directions. Each allowed flow has a named owner and a reason.
 
 If you can only afford one project, build this boundary.
