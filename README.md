@@ -14,6 +14,9 @@ Most security people learn on IT networks, then get handed a plant floor. The in
 
 | Note | What it covers |
 |---|---|
+| [1. IT vs OT](notes/01-it-vs-ot.md) | How priorities, patching, scanning and ownership differ on a plant floor |
+| [2. The Purdue model and segmentation](notes/02-purdue-and-segmentation.md) | Levels, the industrial DMZ, zones and conduits, common mistakes |
+| [3. Industrial protocols](notes/03-protocols.md) | Modbus, EtherNet/IP, S7, DNP3, OPC UA: ports and what security each has |
 
 ## Ground rules
 
